@@ -10,3 +10,6 @@ Next.js tiene dos maneras de pre-renderizado: La **Generación de Sitios Estáti
 - La **renderizado del lado del servidor** (SSR) es el método de pre-renderizado que genera el HTML en **cada solicitud**.
 
 Es importante destacar que Next.js te permite **elegir** la manera de pre-renderizado para cada página. Así que, puedes crear una aplicación Next.js "híbrida" mediante el uso de la Generación Estática (SSG) para la mayoría de las páginas; y el Renderizado del Lado del Servidor (SSR) para otras.
+
+---
+Fuente original: [Two Forms of Pre-rendering](https://next-learn-starter.vercel.app/posts/pre-rendering "next-learn-starter.vercel")
